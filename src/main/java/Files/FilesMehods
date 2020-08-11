@@ -1,0 +1,9 @@
+copy() --> kopieert het ene bestand naar het andere
+move() --> verplaatst het ene pad naar het andere
+createDirectory() --> maakt een nieuwe map
+createFile() --> maakt een nieuw element
+delete() / deleteIfExists() --> verwijdert een bestand of een map
+readAttributes() --> leest de kenmerken van een map of bestand
+setAttribute() --> stelt een kenmerk van een bestand of map in
+readAllLines() --> leest alle tekstregels van het bestand
+write() --> schrijft naar het bestand
