@@ -1,0 +1,3 @@
+XML kan object data opslaan alsook vrijgeven.
+De volgende voorbeeldklassen schrijven data weg naar een XML file.
+XML wordt vooral gebruikt om data te transferen over het internet.

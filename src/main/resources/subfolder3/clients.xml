@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<accounts>
+    <account>
+        <accNmr>100</accNmr>
+        <balance>20.0</balance>
+        <firstName>Maxim</firstName>
+        <lastName>Verbeeck</lastName>
+    </account>
+    <account>
+        <accNmr>200</accNmr>
+        <balance>10.0</balance>
+        <firstName>Sara</firstName>
+        <lastName>Aouni</lastName>
+    </account>
+</accounts>
